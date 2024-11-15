@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-import collections
 from pymodbus.client import ModbusTcpClient
 
 
